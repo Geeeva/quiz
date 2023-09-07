@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "question": "Though they sound happy, what animal's 'laugh' is a reaction to being threatened?",
+    "availableAnswers": [
+      "hyena",
+      "ox",
+      "woodpecker",
+      "baboon"
+    ],
+    "correctAnswer": "hyena"
+  },
+  {
+    "id": 2,
+    "question": "Capable of exceeding 186 miles per hour, what is the fastest creature in the animal kingdom?",
+    "availableAnswers": [
+      "horsefly",
+      "peregrine falcon",
+      "black marlin",
+      "cheetah"
+    ],
+    "correctAnswer": "peregrine falcon"
+  },
+  {
+    "id": 3,
+    "question": "Known for its intelligence, which dog breed has been found capable of understanding more than a thousand words?",
+    "availableAnswers": [
+      "Border Collie",
+      "Dachshund",
+      "Cocker Spaniel",
+      "French Bulldog"
+    ],
+    "correctAnswer": "Border Collie"
+  },
+  {
+    "id": 4,
+    "question": "The tiniest animal with a backbone is a what?",
+    "availableAnswers": [
+      "fish",
+      "lizard",
+      "bird",
+      "frog"
+    ],
+    "correctAnswer": "frog"
+  }
+]
