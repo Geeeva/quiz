@@ -89,7 +89,7 @@
           correctly.
         </p>
         <p class="pl-4">
-          You were better then {{ worsePlayersinPercentage }} of all quizers!
+          You were better than {{ worsePlayersinPercentage }} of all quizers!
         </p>
       </div>
       <NuxtLink to="/" class="redo mt-6" @click="redoQuiz()"
